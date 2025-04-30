@@ -1,5 +1,5 @@
 # HR_Analystics_Dashboard--Tableau
-![](Hr dashboard.png)
+![](https://github.com/Saswati-18/HR_Analystics_Dashboard--Tableau/blob/main/Hr%20dashboard.png)
 
 ## 🎯 Objective
 
